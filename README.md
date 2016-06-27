@@ -7,7 +7,7 @@ An engineer by training, my career has always been linked to technology and IT, 
 ## Strengths
 
 - A passion for coding, and technology in general
-- Strong analytical skills
+- Fast learner
 - Experience in complex multi-national projects, as well as start ups
 - Business and financial acumen
 
