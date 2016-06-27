@@ -12,7 +12,8 @@ An engineer by training, my career has always been linked to technology and IT, 
 - Business and financial acumen
 
 ## Code examples
-<insert table>
+
+insert table
 
 ## Education
 
