@@ -11,6 +11,9 @@ An engineer by training, my career has always been linked to technology and IT, 
 - Experience in complex multi-national projects, as well as start ups
 - Business and financial acumen
 
+## Code examples
+<insert table>
+
 ## Education
 
 #### Makers Academy (Apr-16 to Jul-16)
