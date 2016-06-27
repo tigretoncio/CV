@@ -13,7 +13,12 @@ An engineer by training, my career has always been linked to technology and IT, 
 
 ## Code examples
 
-insert table
+| Project                 | Description             | Technologies            |
+|-------------------------|-------------------------|-------------------------|
+| [Phlash](https://github.com/missamynicholson/phlash) | Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest. **Approved by Apple for Beta testing** |
+| [I know what you'll do this summer](https://github.com/tigretoncio/I-know-what-you-will-do-this-summer) | provides personalised holiday experiences.   | JavaScript, Angular               |
+| [Instagram Clone](https://github.com/tigretoncio/instagram-challenge) | A web clone of instagram.  | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
+|[Makers BnB](https://github.com/MariaRomero/air_bnb) | Clone of Air-BNB, Makers Academy style | Sinatra, JavaScript, Postgres, Datamapper, mailgun, bcrypt
 
 ## Education
 
@@ -21,10 +26,20 @@ insert table
 
 - Highly selective admission process
 - Independent learning and problem-solving
-- Methodology Skills: Agile, TDD/BDD, Object Oriented Programming, MVC, SOLID principles
+- Methodology Skills: Agile, TDD/BDD, Object Oriented Programming, MVC, SOLID
 - Main Technologies: Ruby, JavaScript, Ruby on Rails, HTML, CSS, JQuery, Angular
 - Testing Frameworks: Rspec, Jasmine, Karma, Selenium 
 
+#### EDX
+- DEV204x Programming with C# (Microsoft)
+- Excel for Data analysis and Visualization (Microsoft)
+- Engineering Software as a Service - Part 1 (BerkeleyX)
+
+
+#### Coursera
+- An Introduction to Interactive Programming in Python (Rice University)
+- R programming (John Hopkins University)
+- Computational investing (Georgia Institute of Technology)
 
 #### Henley Business School, University of Reading
 
@@ -45,11 +60,14 @@ Founded and managed with other partners a Business Intelligence and data analysi
 
 **BT Group** (Feb-04 to Nov-12)   
 *Senior Network Planning and Design Manager*    
-Management of Capital Expenditure (CAPEX) in the Global Transport team.  Focus on the full project cycle from requirements definition, project portfolio prioritisation, support of business case generation and approval, implementation, accurate budget tracking and post-implementation reviews. Identified financial and procurement processes and tools to track expenditure. Investigated the use of those to generate reports for the team.  Created and documented a process to provide budget tracking visibility, and provided training to the team.  Overall planning responsibility for the deployment of DWDM links for the Trans-Pan European Network (TPEN), using Huawei optical equipment (OSN 8800)
+Financial and technical responsibilities within the Network Planning and Design team, overseeing BT International Optical networks.
 
 *Core capacity Team Leader*   
-Responsible for high-level design and planning of major network infrastructure capacity. Definition of requirements, following the project approval financial and operative processes, and tracking of progress through completion, focusing on network scalability and cost reduction, and reporting on status and issues.  Through inventory management and data analysis I achieved 90% OPEX reduction in cost per Mbps of leased line within 3 years. 
+Responsible for high-level design and planning of major network infrastructure capacity.  Through inventory management and data analysis I achieved 90% OPEX reduction in cost per Mbps of leased line within 3 years. 
 
 **Siticom / Devoteam Group (France)**   
 *Project Manager /IT Consultant*    
-Worked for several clients as project manager and IT Consultant, mainly in the Paris area
+Worked for several clients in the Telecom, Finance and Internet Provider industry as project manager and IT Consultant, mainly in the Paris region.
+
+## "Other" Languages
+I speak English, French and Spanish to a proficient level
