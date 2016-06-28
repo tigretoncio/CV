@@ -72,4 +72,4 @@ Responsible for high-level design and planning of major network infrastructure c
 Worked for several clients in the Telecom, Finance and Internet Provider industry as project manager and IT Consultant, mainly in the Paris region.
 
 ## "Other" Languages
-I speak English, French and Spanish to a proficient level
+Fluently speak English, Spanish and French
