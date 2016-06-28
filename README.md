@@ -2,14 +2,16 @@
 
 _I've recently discovered coding, and fell in love with it._
 
-An engineer by training, my career has always been linked to technology and IT, having worked in different countries and companies around the IT and Finance sectors.  I have created and managed a startup in the business intelligence field.  A few months ago I (re)-discovered the joy of software craftmanship, and haven't looked back since.  I am currently looking for exciting opportunities to get involved in Software development.
+An engineer at heart, my career has always been linked to technology. I have lived and worked in three different countries, worked for big and small companies, and even founded a startup in the business intelligence field.  A few months ago I discovered the joy of software craftmanship, and got absolutely infatuated with.  I am currently looking for exciting opportunities to get involved in Software development.
 
-## Strengths
+## Skills
 
-- A passion for coding, and technology in general
-- Fast learner
-- Experience in complex multi-national projects, as well as start ups
-- Business and financial acumen
+-	**Self-starter and fast learner**: In my period as Telecom consultant in France, I worked for 9 different organisations in multiple IT and Telecom projects as external consultant. Every time I needed to hit the ground running, understand the technical requirements, but also the organisation culture, and deliver on the assigned task.
+
+-	**Outstanding performance**: During my BT period, I got very good and outstanding marks in mostly all the quarterly evaluations, both in the “what” and the “values and leadership capability” sections
+
+-	**Business and Financial acumen**:  Through inventory management and data analysis I achieved 90% unit cost reduction of leased circuits during a period of 3 years.
+
 
 ## Code examples
 
