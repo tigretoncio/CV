@@ -68,7 +68,7 @@ Financial and technical responsibilities within the Network Planning and Design 
 Responsible for high-level design and planning of major network infrastructure capacity.  Through inventory management and data analysis I achieved 90% OPEX reduction in cost per Mbps of leased line within 3 years. 
 
 **Siticom / Devoteam Group (France)**   
-*Project Manager /IT Consultant*    
+*Telecoms Consultant / Project manager*    
 Worked for several clients in the Telecom, Finance and Internet Provider industry as project manager and IT Consultant, mainly in the Paris region.
 
 ## "Other" Languages
