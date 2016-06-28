@@ -27,8 +27,7 @@ A few months ago, I discovered the joy of software craftmanship, and got absolut
 
 #### Makers Academy (Apr-16 to Jul-16)
 
-- Highly selective admission process
-- Independent learning and problem-solving
+- European leading's bootcamp.  Highly selective admission process with an independent learning and problem-solving approach
 - Methodology Skills: Agile, TDD/BDD, Object Oriented Programming, MVC, SOLID
 - Main Technologies: Ruby, JavaScript, Ruby on Rails, HTML, CSS, JQuery, Angular
 - Testing Frameworks: Rspec, Jasmine, Karma, Selenium 
