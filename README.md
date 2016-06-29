@@ -23,6 +23,24 @@ A few months ago, I discovered the joy of software craftmanship, and got absolut
 | [Instagram Clone](https://github.com/tigretoncio/instagram-challenge) | A web clone of instagram.  | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
 |[Makers BnB](https://github.com/MariaRomero/air_bnb) | Clone of Air-BNB, Makers Academy style | Sinatra, JavaScript, Postgres, Datamapper, mailgun, bcrypt
 
+## Experience
+
+**CinetB** (Dec-12 to Mar-16)    
+*Co-Founder and Operations Manager*
+
+Founded and managed with other partners a Business Intelligence and data analysis consultancy firm operating mainly in Spain and in the technology sector. Helped telecommunication players in competitive intelligence projects, (voice and data services).
+
+**BT Group** (Feb-04 to Nov-12)   
+*Senior Network Planning and Design Manager*    
+Financial and technical responsibilities within the Network Planning and Design team, overseeing BT International Optical networks.
+
+*Core capacity Team Leader*   
+Responsible for high-level design and planning of major network infrastructure capacity.  Through inventory management and data analysis I achieved 90% OPEX reduction in cost per Mbps of leased line within 3 years. 
+
+**Siticom / Devoteam Group (France)**   
+*Telecoms Consultant / Project Manager*    
+Worked for several clients in the Telecom, Finance and Internet Provider industry as project manager and IT Consultant, mainly in the Paris region.
+
 ## Education
 
 #### Makers Academy (Apr-16 to Jul-16)
@@ -52,24 +70,5 @@ A few months ago, I discovered the joy of software craftmanship, and got absolut
 - Telecommunications Engineering Master Degree (Ingeniero Superior de Telecomunicación)
 - Erasmus scholarship in Paris, France – Telecom and Management SudParis
 
-
-## Experience
-
-**CinetB** (Dec-12 to Mar-16)    
-*Co-Founder and Operations manager*
-
-Founded and managed with other partners a Business Intelligence and data analysis consultancy firm operating mainly in Spain and in the technology sector. Helped telecommunication players in competitive intelligence projects, (voice and data services).
-
-**BT Group** (Feb-04 to Nov-12)   
-*Senior Network Planning and Design Manager*    
-Financial and technical responsibilities within the Network Planning and Design team, overseeing BT International Optical networks.
-
-*Core capacity Team Leader*   
-Responsible for high-level design and planning of major network infrastructure capacity.  Through inventory management and data analysis I achieved 90% OPEX reduction in cost per Mbps of leased line within 3 years. 
-
-**Siticom / Devoteam Group (France)**   
-*Telecoms Consultant / Project manager*    
-Worked for several clients in the Telecom, Finance and Internet Provider industry as project manager and IT Consultant, mainly in the Paris region.
-
-## "Other" Languages
-Fluently speak English, Spanish and French
+## Languages
+I fluently speak English, Spanish and French
