@@ -3,7 +3,7 @@
 _I've recently discovered coding, and fell in love with it._
 
 An engineer at heart, my career has always been linked to technology. I have lived and worked in three different countries, worked for big and small companies, and even founded a startup in the business intelligence field.   
-A few months ago, I discovered the joy of software craftmanship, and got absolutely infatuated with.  I am currently looking for exciting opportunities in the Software development arena.
+A few months ago, I discovered the joy of software craftmanship, and got addicted straight away.  I am currently looking for exciting opportunities in the Software development arena.
 
 ## Skills
 
