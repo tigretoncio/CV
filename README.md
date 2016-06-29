@@ -9,7 +9,7 @@ A few months ago, I discovered the joy of software craftmanship, and got absolut
 
 -	**Self-starter and fast learner**: In my period as Telecom consultant in France, I worked for 9 different organisations in multiple IT and Telecom projects as external consultant. Every time I needed to hit the ground running, understand the technical requirements, but also the organisation culture, and deliver on the assigned task.
 
--	**Outstanding performance**: During my BT period, I got very good and outstanding marks in mostly all the quarterly evaluations, both in the “what” and the “values and leadership capability” sections
+-	**Outstanding performance**: During my BT period, I got very good and outstanding marks in 12 out of 15 quarterly evaluations, both in the “what” and the “values and leadership capability” sections
 
 -	**Business and Financial acumen**:  When I come to BT Radianz, there was not a clear process to manage the inventory of leased lines that supported their financial telecommunications network. Through inventory management, data analysis and supplier negotiation I achieved 90% unit cost reduction of leased circuits during a period of 3 years.
 
