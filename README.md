@@ -19,7 +19,7 @@ A few months ago, I discovered the joy of software craftmanship, and got addicte
 | Project                 | Description             | Technologies            |
 |-------------------------|-------------------------|-------------------------|
 | [Phlash](https://github.com/missamynicholson/phlash) | Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest. **Approved by Apple for Beta testing** |
-| [I know what you'll do this summer](https://github.com/tigretoncio/I-know-what-you-will-do-this-summer) | provides personalised holiday experiences.   | JavaScript, Angular               |
+| [I know what you'll do this summer](https://github.com/tigretoncio/I-know-what-you-will-do-this-summer) | provides personalised holiday experiences.   | JavaScript, Angular, oAuth, APIs               |
 | [Instagram Clone](https://github.com/tigretoncio/instagram-challenge) | A web clone of instagram.  | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
 |[Makers BnB](https://github.com/MariaRomero/air_bnb) | Clone of Air-BNB, Makers Academy style | Sinatra, JavaScript, Postgres, Datamapper, mailgun, bcrypt
 
