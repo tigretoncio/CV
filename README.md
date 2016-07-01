@@ -2,9 +2,10 @@
 
 _I've recently discovered coding, and fell in love with it._
 
-An engineer at heart, my career has always been linked to technology. I have lived and worked in three different countries, worked for big and small companies, and even founded a startup in the business intelligence field.  
+An engineer at heart, my career has always been linked to technology. I have lived in three different countries, where I’ve worked for organisations of all sizes from start-ups to multinationals, in technical projects.
 
-A few months ago, I discovered the joy of software craftsmanship, and become thrilled straight away. After a fresh graduation in the leading UK coding bootcamp, I am currently looking for exciting opportunities in the Software development arena.
+A few months ago, I fully realised the joy of software craftsmanship, and become thrilled straight away. After a fresh graduation from the leading UK’s coding bootcamp, I am currently looking for exciting opportunities in the Software development arena.
+
 
 ## Skills
 
