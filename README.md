@@ -46,7 +46,7 @@ Worked for several clients in the Telecom, Finance and Internet Provider industr
 
 #### Makers Academy (Apr-16 to Jul-16)
 
-- European leading's bootcamp.  Highly selective admission process with an independent learning and problem-solving approach
+- UK leading's bootcamp.  Highly selective admission process with an independent learning and problem-solving approach
 - Methodology Skills: Agile, TDD/BDD, Object Oriented Programming, MVC, SOLID
 - Main Technologies: Ruby, JavaScript, Ruby on Rails, HTML, CSS, JQuery, Angular
 - Testing Frameworks: Rspec, Jasmine, Karma, Selenium 
