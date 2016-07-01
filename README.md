@@ -11,7 +11,7 @@ A few months ago, I discovered the joy of software craftsmanship, and become thr
 
 -	**Outstanding performance**: During my BT period, I got very good and outstanding marks in 12 out of 15 quarterly evaluations, both in the “what” and the “values and leadership capability” sections
 
--	**Business and Financial acumen**:  When I come to BT Radianz, there was not a clear process to manage the inventory of leased lines that supported their financial telecommunications network. Through inventory management, data analysis and supplier negotiation I achieved 90% unit cost reduction of leased circuits during a period of 3 years.
+-	**Business and Financial acumen**:  When I was hired at BT Radianz, there was not a clear process to manage the inventory of leased lines that supported their financial telecommunications network. Through inventory management, data analysis and supplier negotiation I achieved 90% unit cost reduction of leased circuits during a period of 3 years.
 
 
 ## Code examples
