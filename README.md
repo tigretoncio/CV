@@ -57,6 +57,12 @@ Worked for several clients in the Telecom, Finance and Internet Provider industr
 - Excel for Data analysis and Visualization (Microsoft)
 - Engineering Software as a Service - Part 1 (BerkeleyX)
 
+#### Pluralsight
+- C# Fundamentals with Visual Studio 2015
+- C# Equality and Comparisons
+- C# Collections Fundamentals
+- C# Interfaces
+- C# Best Practices: Improving on the Basics
 
 #### Coursera
 - An Introduction to Interactive Programming in Python (Rice University)
